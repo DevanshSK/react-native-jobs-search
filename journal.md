@@ -1,4 +1,5 @@
 - Installed expo-font axios expo-cli react-native-dotenv.
 - Use "npm start" to run in dev server or use "expo-cli start --tunnel" to start.
 - Finished the header buttons
-- 
+- Use "_layout" file to load fonts and added splash screen.
+- Welcome Section ui done
