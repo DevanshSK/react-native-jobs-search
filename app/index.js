@@ -30,8 +30,10 @@ const Home = () => {
       />
       <ScrollView showsVerticalScrollIndicator={false}>
         <View style={{ flex: 1, padding: SIZES.medium }}>
+          {/* Welcome Section */}
           <Welcome />
 
+          {/* PopularJobs Section */}
           <Popularjobs />
           <Nearbyjobs />
         </View>
