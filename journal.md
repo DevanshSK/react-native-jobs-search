@@ -10,3 +10,4 @@
 - Link search to another url
 - Create a seperate dynamic page for search.
 - Use onChangeText for extracting text from TextInput
+- Made the Refresh function to automatically refetch data if any error happens.
